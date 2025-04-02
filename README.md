@@ -1,4 +1,4 @@
-# Uncovering-Health-Patterns-and-Risk-Factors-An-Analytical-Study-of-BRFSS-using-R
+# BRFSS-Data-Analytics-Exploring-Health-Patterns-and-Risk-Factors-with-R
 
 ## Overview
 
